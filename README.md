@@ -13,8 +13,9 @@ This is just an Intro to Python project. Made using Turtle Library in Python
 
 **Some of the animations created in Turltle library are shown below:**
 
-<img src="https://3.bp.blogspot.com/-STgFumygvXA/WAHu1iTia3I/AAAAAAAAAtk/Ym_vWmzlr7wrPjeq4h1F_ZV6Zwi1CZCigCLcB/s1600/900px-Turtle_Graphics_Spiral.svg.png" width="350"><img src="https://ianwitham.files.wordpress.com/2010/04/screenshot-python-turtle-graphics2.png" width="800">
+<img src="https://3.bp.blogspot.com/-STgFumygvXA/WAHu1iTia3I/AAAAAAAAAtk/Ym_vWmzlr7wrPjeq4h1F_ZV6Zwi1CZCigCLcB/s1600/900px-Turtle_Graphics_Spiral.svg.png" width="375"><img src="https://ianwitham.files.wordpress.com/2010/04/screenshot-python-turtle-graphics2.png" width="700">
 
-
-
-    
+### Important links: 
+ - [Documentation](https://docs.python.org/3.1/library/turtle.html)
+ - [Tutorials](https://www.geeksforgeeks.org/turtle-programming-python/)
+ - [Video tutorials](https://www.youtube.com/watch?v=uRtCq6MBp1I)
