@@ -39,10 +39,17 @@ This is just an Intro to Python project. Made using Turtle Library in Python
  Launch the game 
  
     python SpaceWars.py
+ 
+### How To Play:
+Move the player accordingly to a position to shoot the enemy. Each kill gains 10 points. When the enemy closes the player the *"Game is over."*
 
-### Game Controls:
 `Left key` to move the player left.
 
 `right key` to move the player right.
 
 `spacebar` to shoot the missile.
+
+### References:
+ - https://docs.python.org/3/library/turtle.html
+ - https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg
+ - https://leerob.io/blog/space-invaders-with-python
