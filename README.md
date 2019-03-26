@@ -7,6 +7,12 @@ A simple game made using Turtle Library in python.
 
 This is just an Intro to Python project. Made using Turtle Library in Python
 
+**Libraries used:**
+
+ - [Turtle](https://docs.python.org/3.1/library/turtle.html) for animations.
+ - [Math](https://docs.python.org/3.7/library/math.html) for Mathematical operations to govern the motion of the player and enemy. 
+ - [Random](https://docs.python.org/3/library/random.html) for random spawn of enemies when they are hit.
+ - [Winsound](https://docs.python.org/2/library/winsound.html) for sound effects like collision sound and missile sound.
 ## About Turtle Library
 
 **Turtle graphics** is a popular way for introducing programming to kids. It was part of the original Logo programming language developed by Wally Feurzig and Seymour Papert in 1966. “Turtle” is a Python feature like a drawing board, which lets us command a turtle to draw all over it! We can use functions like turtle.forward(…) and turtle.right(…) which can move the turtle around. The turtle module provides turtle graphics primitives, in both object-oriented and procedure-oriented ways. Because it uses `tkinter` for the underlying graphics, it needs a version of Python installed with Tk support. It just works like a paint app and is efficient and very easy to use.
@@ -16,6 +22,18 @@ This is just an Intro to Python project. Made using Turtle Library in Python
 <img src="https://3.bp.blogspot.com/-STgFumygvXA/WAHu1iTia3I/AAAAAAAAAtk/Ym_vWmzlr7wrPjeq4h1F_ZV6Zwi1CZCigCLcB/s1600/900px-Turtle_Graphics_Spiral.svg.png" width="375"><img src="https://ianwitham.files.wordpress.com/2010/04/screenshot-python-turtle-graphics2.png" width="700">
 
 ### Important links: 
+ 
  - [Documentation](https://docs.python.org/3.1/library/turtle.html)
  - [Tutorials](https://www.geeksforgeeks.org/turtle-programming-python/)
  - [Video tutorials](https://www.youtube.com/watch?v=uRtCq6MBp1I)
+ 
+ ### Installation
+ You can clone it and run **SpaceWars.py**. Use the following commands to get a copy from Github
+     
+    git clone https://github.com/madhavambati/SpaceWars.git
+ change the directory to SpaceWars    
+     
+    cd SpaceWars
+ Launch the game 
+ 
+    python SpaceWars.py
