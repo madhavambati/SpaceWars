@@ -29,7 +29,7 @@ This is just an Intro to Python project. Made using Turtle Library in Python
  - [Tutorials](https://www.geeksforgeeks.org/turtle-programming-python/)
  - [Video tutorials](https://www.youtube.com/watch?v=uRtCq6MBp1I)
  
- ### Installation
+ ### Installation:
  You can clone it and run **SpaceWars.py**. Use the following commands to get a copy from Github
      
     git clone https://github.com/madhavambati/SpaceWars.git
@@ -39,3 +39,10 @@ This is just an Intro to Python project. Made using Turtle Library in Python
  Launch the game 
  
     python SpaceWars.py
+
+### Game Controls:
+`Left key` to move the player left.
+
+`right key` to move the player right.
+
+`spacebar` to shoot the missile.
