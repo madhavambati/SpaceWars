@@ -3,7 +3,9 @@ A simple game made using Turtle Library in python.
 
 **Screenshot** of the game is given below
 
-<img src="https://user-images.githubusercontent.com/27866638/54981382-27bbff00-4fce-11e9-9694-983f2c00b0d0.png" width="550">
+<img src="https://user-images.githubusercontent.com/27866638/54981382-27bbff00-4fce-11e9-9694-983f2c00b0d0.png" width="500">
+<img src="https://user-images.githubusercontent.com/27866638/55740118-105a2880-5a48-11e9-92c5-6ef52506541f.png" width="500">
+<img src="https://user-images.githubusercontent.com/27866638/55740223-3da6d680-5a48-11e9-8614-d984f024afe3.png" width= "500">
 
 This is just an Intro to Python project. Made using Turtle Library in Python
 
